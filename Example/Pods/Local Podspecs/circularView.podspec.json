@@ -1,0 +1,22 @@
+{
+  "name": "circularView",
+  "version": "0.1.0",
+  "summary": "A short description of circularView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anooptomar@gmail.com/circularView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anooptomar@gmail.com": "devtechie@devtechieinteractive.com"
+  },
+  "source": {
+    "git": "https://github.com/anooptomar@gmail.com/circularView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "circularView/Classes/**/*"
+}

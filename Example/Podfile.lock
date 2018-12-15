@@ -1,0 +1,16 @@
+PODS:
+  - circularView (0.1.0)
+
+DEPENDENCIES:
+  - circularView (from `../`)
+
+EXTERNAL SOURCES:
+  circularView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  circularView: 416dba2d4d8bb5545d86779183cd478805d24bcb
+
+PODFILE CHECKSUM: 00eba8ed62339fa5209f43f73def368f552eec0e
+
+COCOAPODS: 1.5.3
