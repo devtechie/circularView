@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'circularView_Example' do
+  pod 'circularView', :path => '../'
+
+  target 'circularView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
