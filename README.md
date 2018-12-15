@@ -22,7 +22,7 @@ pod 'circularView'
 
 ## Author
 
-anooptomar@gmail.com, devtechie@devtechieinteractive.com
+devtechie@devtechieinteractive.com
 
 ## License
 
