@@ -40,5 +40,5 @@ this is just a sample project to test CocoaPods spec integration.
   # s.frameworks = 'UIKit', 'MapKit'
   s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
-  s.swift_version = '4.2'
+  s.swift_version = '4'
 end
